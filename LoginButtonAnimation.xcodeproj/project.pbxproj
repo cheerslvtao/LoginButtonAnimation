@@ -13,6 +13,7 @@
 		358EF2E11E724C8000D54B2F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 358EF2DF1E724C8000D54B2F /* Main.storyboard */; };
 		358EF2E31E724C8000D54B2F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 358EF2E21E724C8000D54B2F /* Assets.xcassets */; };
 		358EF2E61E724C8000D54B2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 358EF2E41E724C8000D54B2F /* LaunchScreen.storyboard */; };
+		358EF2F21E724D8F00D54B2F /* CustomAnimationLoginButton.m in Sources */ = {isa = PBXBuildFile; fileRef = 358EF2F11E724D8F00D54B2F /* CustomAnimationLoginButton.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		358EF2E21E724C8000D54B2F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		358EF2E51E724C8000D54B2F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		358EF2E71E724C8000D54B2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		358EF2F01E724D8F00D54B2F /* CustomAnimationLoginButton.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CustomAnimationLoginButton.h; sourceTree = "<group>"; };
+		358EF2F11E724D8F00D54B2F /* CustomAnimationLoginButton.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomAnimationLoginButton.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				358EF2DA1E724C8000D54B2F /* AppDelegate.m */,
 				358EF2DC1E724C8000D54B2F /* ViewController.h */,
 				358EF2DD1E724C8000D54B2F /* ViewController.m */,
+				358EF2F01E724D8F00D54B2F /* CustomAnimationLoginButton.h */,
+				358EF2F11E724D8F00D54B2F /* CustomAnimationLoginButton.m */,
 				358EF2DF1E724C8000D54B2F /* Main.storyboard */,
 				358EF2E21E724C8000D54B2F /* Assets.xcassets */,
 				358EF2E41E724C8000D54B2F /* LaunchScreen.storyboard */,
@@ -151,6 +156,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				358EF2DE1E724C8000D54B2F /* ViewController.m in Sources */,
+				358EF2F21E724D8F00D54B2F /* CustomAnimationLoginButton.m in Sources */,
 				358EF2DB1E724C8000D54B2F /* AppDelegate.m in Sources */,
 				358EF2D81E724C8000D54B2F /* main.m in Sources */,
 			);
